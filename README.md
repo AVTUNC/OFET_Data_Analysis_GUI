@@ -29,14 +29,14 @@
 
   Contact Information:
   We encourage collaboration and value your feedback. If you have any questions, suggestions, or you'd like to get in touch, please feel free to contact the developer:
-  - Developer: Ali Veysel TUNC
+  - Developer: Ali TUNC
   - LinkedIn: https://www.linkedin.com/in/alivtunc/
 
   Note: This program is open for collaboration and improvement. Your contributions and ideas are welcome, and together we can enhance this tool for the benefit of the Printed Electronics Group (iL).
 
   Enjoy using the Transistor Data Analyzer and Reporter!
 
-  Copyright © 12.10.2023, Ali TUNC
+  Copyright  12.10.2023, Ali TUNC
   ================================================================================================
   ================================================================================================
 
