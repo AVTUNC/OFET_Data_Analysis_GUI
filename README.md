@@ -1,5 +1,6 @@
-![Transistor Data Analyzer and Reporter](Transistor_Data_Analyzer_and_Reporter.png)
-
+<div style="text-align:center;">
+  <img src="Transistor_Data_Analyzer_and_Reporter.png" alt="Transistor Data Analyzer and Reporter" width="400">
+</div>
 
                                            ==============================
                                            ==============================
