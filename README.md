@@ -1,8 +1,9 @@
-<div style="text-align:center;">
+<div align="center>
   <img src="Transistor_Data_Analyzer_and_Reporter.png" alt="Transistor Data Analyzer and Reporter" width="400">
 </div>
 
-<center>
+<div align="center>
+
 =========================
 
 Transistor Data Analyzer and Reporter
@@ -10,7 +11,7 @@ Transistor Data Analyzer and Reporter
 Version: 1.0
 
 =========================
-</center>
+</div>
 
 
  Overview:
@@ -42,11 +43,12 @@ Version: 1.0
 
   Copyright ©   21.06.2023, Ali TUNC
 
-<center>
+<div align="center>
+
 =========================
 
 
 =========================
-</center>
+</div>
   
  
