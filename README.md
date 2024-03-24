@@ -1,11 +1,8 @@
-
+! [Transistor Data Analyzer and Reporter](Transistor_Data_Analyzer_and_Reporter.png)
                                            ==============================
                                            ==============================
-  
-
-                                        Transistor Data Analyzer and Reporter
+                                         Transistor Data Analyzer and Reporter
                                                       Version: 1.0
-
                                            ==============================
                                            ==============================
 
