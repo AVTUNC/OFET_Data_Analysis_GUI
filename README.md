@@ -2,12 +2,15 @@
   <img src="Transistor_Data_Analyzer_and_Reporter.png" alt="Transistor Data Analyzer and Reporter" width="400">
 </div>
 
-                                           ==============================
-                                           ==============================
-                                         Transistor Data Analyzer and Reporter
-                                                      Version: 1.0
-                                           ==============================
-                                           ==============================
+<center>
+=========================
+
+Transistor Data Analyzer and Reporter
+
+Version: 1.0
+
+=========================
+</center>
 
 
  Overview:
@@ -25,18 +28,25 @@
   2. Utilize the program's data visualization capabilities to gain insights into your transistor's behavior.
   3. Enter transistor parameters, such as channel lenght, channel width, dielectric thickness and dielectric coefficient.   
   4. Let the program automatically calculate key transistor parameters.
-  4. Generate a comprehensive report in DOC format to document your findings.
+  4. Generate a comprehensive report in doc format to document your findings.
 
   Contact Information:
   We encourage collaboration and value your feedback. If you have any questions, suggestions, or you'd like to get in touch, please feel free to contact the developer:
+
   - Developer: Ali TUNC
   - LinkedIn: https://www.linkedin.com/in/alivtunc/
 
   Note: This program is open for collaboration and improvement. Your contributions and ideas are welcome, and together we can enhance this tool for the benefit of the Printed Electronics Group (iL).
 
-  Enjoy using the Transistor Data Analyzer and Reporter!
+  Enjoy using the Transistor Data Analyzer and Reporter.
 
-  Copyright  12.10.2023, Ali TUNC
-  ================================================================================================
-  ================================================================================================
+  Copyright ©   21.06.2023, Ali TUNC
 
+<center>
+=========================
+
+
+=========================
+</center>
+  
+ 
